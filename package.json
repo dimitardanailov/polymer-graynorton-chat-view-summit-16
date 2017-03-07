@@ -1,0 +1,30 @@
+{
+  "name": "polymer-graynorton-chat-view-summit-16",
+  "version": "1.0.0",
+  "description": "Demo chat application presented at [Polymer Summit 2016](https://www.youtube.com/watch?v=pAW4YDLtPVs).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitardanailov/polymer-graynorton-chat-view-summit-16.git"
+  },
+  "keywords": [
+    "data",
+    "flow",
+    "redux",
+    "polymer",
+    "redux"
+  ],
+  "author": "Dimitar Danailov <dimityr.danailov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimitardanailov/polymer-graynorton-chat-view-summit-16/issues"
+  },
+  "homepage": "https://github.com/dimitardanailov/polymer-graynorton-chat-view-summit-16#readme",
+  "dependencies": {
+      "redux": "^3.6.0",
+      "reselect": "^2.5.4"
+  }
+}
